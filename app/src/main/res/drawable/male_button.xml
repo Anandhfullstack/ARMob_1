@@ -4,6 +4,6 @@
         <item android:state_pressed="true"
             android:drawable="@drawable/male" /> <!-- pressed -->
         <item android:state_focused="true"
-            android:drawable="@drawable/female" /> <!-- focused -->
+            android:drawable="@drawable/male" /> <!-- focused -->
         <item android:drawable="@drawable/female" /> <!-- default -->
     </selector>

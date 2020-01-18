@@ -17,7 +17,7 @@
         >
 
         <ImageButton
-            android:id="@+id/imageButton2"
+            android:id="@+id/btn_male"
             android:layout_width="wrap_content"
             android:layout_height="75pt"
             android:layout_gravity="center"
@@ -29,7 +29,7 @@
 
 
         <ImageButton
-            android:id="@+id/imageButton3"
+            android:id="@+id/female"
             android:layout_width="wrap_content"
             android:layout_height="75pt"
             android:layout_gravity="center"
